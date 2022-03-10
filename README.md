@@ -14,10 +14,10 @@ et sur une app [Electron](https://www.electronjs.org/).
 
 Dépendances à installer :
 
-- Electron (dépendance de développement)
-- Express
-- nodemon
-- socket.io
+- [Electron](https://www.electronjs.org/fr) (dépendance de développement)
+- [Express](https://expressjs.com/fr/)
+- [nodemon](https://github.com/remy/nodemon)
+- [socket.io](https://socket.io/fr/)
 
 ## Utilisation
 
@@ -29,13 +29,14 @@ et l'application Electron avec la commande suivante :
 
 ## Fonctionnalités
 
-Liste des commandes :
+**Liste des commandes :**
 
 - Pouvoir créer une room `/create <roomName>`
 - Pouvoir rejoindre une room `/join <roomName>`
 - Pouvoir lister les rooms existantes `/list`
 
-Spécificités :
+**Spécificités :**
 
+- Il faut être dans une room pour envoyer des messages.
 - Seules les personnes présentes dans la room peuvent se parler entre elles.
 - En cas de double join la room précédente est quittée.
