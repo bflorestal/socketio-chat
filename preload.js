@@ -2,7 +2,6 @@
 // Il a la même sandbox qu'une extension Chrome.
 
 window.addEventListener("DOMContentLoaded", () => {
-  console.log("Hello World! (preload)");
   /*
   const replaceText = (selector, text) => {
     const element = document.getElementById(selector);
