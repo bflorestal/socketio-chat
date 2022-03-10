@@ -17,7 +17,7 @@ Dépendances à installer :
 - [Electron](https://www.electronjs.org/fr) (dépendance de développement)
 - [Express](https://expressjs.com/fr/)
 - [nodemon](https://github.com/remy/nodemon)
-- [socket.io](https://socket.io/fr/)
+- [Socket.IO](https://socket.io/fr/)
 
 ## Utilisation
 
