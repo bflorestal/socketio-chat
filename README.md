@@ -1,8 +1,12 @@
-# Chat Socket.IO
-
-Un chat créé avec [Socket.IO](https://socket.io/),
-accessible en local sur navigateur
-et sur une app [Electron](https://www.electronjs.org/).
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bflorestal/socketio-chat/main/public/favicon/android-chrome-512x512.png" width="100" alt="Logo" />
+</div>
+<h1 align="center">
+  Chat Socket.io
+</h1>
+<p align="center">
+  Un chat créé avec <a href="https://socket.io/" target="_blank">Socket.IO</a>, accessible en local sur navigateur et sur une app <a href="https://www.electronjs.org/" target="_blank">Electron</a>.
+</p>
 
 ## Sommaire
 
